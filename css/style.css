@@ -1,4 +1,14 @@
-.colum  {
+.colum1  {
+  background-color: red;
+}
+.colum2  {
+  background-color: yellow;
+}
+.colum3  {
+  background-color: blue;
+}
+
+div{
   width: 300px;
   float:left;
 }
